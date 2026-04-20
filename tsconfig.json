@@ -1,12 +1,10 @@
 {
     "compilerOptions": {
-        "ignoreDeprecations": "6.0",
         "module": "commonjs",
-        "target": "ES6",
+        "target": "es6",
         "moduleResolution": "node",
         "sourceMap": true,
         "outDir": "dist",
-        "rootDir": "./src",
         "esModuleInterop": true,
         "strict": true
     }
